@@ -1,2 +1,2 @@
 # demo-pipeline
-setup ML project
+setup ML projects
